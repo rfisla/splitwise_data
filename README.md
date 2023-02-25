@@ -13,5 +13,5 @@ The steps followed by this project are:
 
 - Upload the dataframe to a Google Drive Spreadsheet
 
-- Show the main statistics in a Data Studio Dashboard
+- Show the main statistics in a Data Studio Dashboard, connected to the Google Drive Spreadsheet
 
